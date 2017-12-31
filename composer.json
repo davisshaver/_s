@@ -1,0 +1,12 @@
+{
+  "name": "davisshaver/_s",
+  "description": "Starter theme for a Philly Publishing site, hosted on Pantheon & based on Automattic's undercores theme.",
+  "type": "project",
+  "keywords": [
+    "wordpress",
+    "wordpress-development",
+    "wordpress-api",
+    "
+  ],
+  "minimum-stability": "alpha"
+}
